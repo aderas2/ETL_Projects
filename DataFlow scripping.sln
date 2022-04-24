@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DataFlow scripping", "DataFlow scripping\DataFlow scripping.dtproj", "{B8132A1C-A7A5-4E63-9F61-61D2B9F1B087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8132A1C-A7A5-4E63-9F61-61D2B9F1B087}.Development|Default.ActiveCfg = Development
+		{B8132A1C-A7A5-4E63-9F61-61D2B9F1B087}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AD8CC2-8E05-4960-84C5-251550BB5790}
+	EndGlobalSection
+EndGlobal
